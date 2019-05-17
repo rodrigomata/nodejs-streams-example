@@ -1,2 +1,2 @@
-# nodejs-streams-example
+# Node.js Basic logging example
 NodeJS Logging stream example
