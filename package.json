@@ -28,7 +28,7 @@
   "homepage": "https://github.com/rodrigomata/nodejs-streams-example#readme",
   "dependencies": {
     "@types/express": "^4.16.1",
-    "@types/node": "^12.7.12",
+    "@types/node": "^12.11.1",
     "async-stream-generator": "^1.0.3",
     "express": "^4.17.0",
     "ts-node": "^8.1.0",
